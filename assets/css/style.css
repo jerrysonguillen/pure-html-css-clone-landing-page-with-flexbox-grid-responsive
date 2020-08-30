@@ -65,7 +65,7 @@ fieldset {
 }
 
 section.section-1 {
-  background-image: url(/assets/images/girl-sun.jpg);
+  background-image: url(./../images/girl-sun.jpg);
   padding-top: 60px;
 }
 
@@ -235,19 +235,19 @@ button.getstarted {
 }
 
 .bg-girl-phone-glance {
-  background-image: url(/assets/images/phone-glance.jpg);
+  background-image: url(./../images/phone-glance.jpg);
 }
 
 .bg-girl-smile {
-  background-image: url(/assets/images/girl-smile.jpg);
+  background-image: url(./../images/girl-smile.jpg);
 }
 
 .bg-boy-study {
-  background-image: url(/assets/images/boy-study.jpg);
+  background-image: url(./../images/boy-study.jpg);
 }
 
 .bg-knit-hat {
-  background-image: url(/assets/images/knit-hat.jpg);
+  background-image: url(./../images/knit-hat.jpg);
 }
 
 .bg-color-mild-red {
